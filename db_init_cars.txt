@@ -9,7 +9,7 @@ chilometraggio              - UNSIGNED INT - NOT NULL
 tipo di carburante          - VARCHAR(25) - NOT NULL
 tipo di cambio              - VARCHAR(25)
 specifiche del motore       - VARCHAR(255)
-prezzo                      - DECIMAL(8, 2) - NOT NULL
+prezzo                      - DECIMAL(10, 2) - NOT NULL
 posti a sedere              - UNSIGNED TINY INT
 porte                       - UNSIGNED TINY INT 
 consumi                     - VARCHAR(25)
